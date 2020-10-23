@@ -1,4 +1,5 @@
-# OSI模型-開放式系統互聯模型 (Open System Interconnection Model，縮寫：OSI；簡稱為OSI模型)
+# OSI模型-開放式系統互聯模型 
+  (Open System Interconnection Model，縮寫：OSI；簡稱為OSI模型)
 # 層次劃分
 ```
 第7層 應用層（Application Layer）：
