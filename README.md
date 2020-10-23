@@ -1,10 +1,8 @@
 # OSI模型-開放式系統互聯模型
 ```
-# 層次劃分
-```
 第7層 應用層（Application Layer）：
       提供為應用軟體而設計的介面，以設定與另一應用軟體之間的通訊。例如：HTTP、HTTPS、FTP、Telnet、SSH、SMTP、POP3等。
-      
+```
 第6層 表達層（Presentation Layer）：
       把數據轉換為能與接收者的系統格式相容並適合傳輸的格式。
       
